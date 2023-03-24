@@ -1,7 +1,7 @@
 -- Create a database called bank_db
 CREATE DATABASE bank_db;
 
--- @block
+-- @blockDROP TABLE branch;
 
 USE bank_db;
 -- @block
