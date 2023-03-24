@@ -181,9 +181,6 @@ INSERT INTO loan(loan_type, loan_amount, loan_status, customer_id, account_id) V
 
 -- @block
 -- sample queries
-
-SELECT * FROM customer WHERE customer_id = 1;
-
 -- @block
 SELECT * FROM account WHERE account_id = 1;
 
