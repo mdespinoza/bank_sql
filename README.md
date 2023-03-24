@@ -4,7 +4,7 @@ The example being used in this repository is based on defining a DB schema for b
 
 
 
-> When using MYSQL note that you may need to run this command to connect to the DB: ALTER USER 'username'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password!';
+> When using MYSQL note that you may need to run this command to connect to the DB if you are using SQLTOOLS in VS Code: ALTER USER 'username'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password!';
 
 <img src="images/vs_code_photo.png"> 
 
@@ -12,7 +12,7 @@ The example being used in this repository is based on defining a DB schema for b
 
 
 
-<br> Here is the folliwing ER diagram for the DB:
+<br> Here is an example ER diagram for a DB - note that this is not the DB that is being used in this repository.  <br> This is just an example of how to create an ER diagram for a:
 
 - A Company is Purchasing zero or many items 
     - Each item listed can belong to one company who is purchasing it
