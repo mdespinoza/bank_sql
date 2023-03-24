@@ -7,7 +7,7 @@ The example being used in this repository is based on defining a DB schema for b
 
 > When using MYSQL note that you may need to run this command to connect to the DB: ALTER USER 'username'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password!';
 
-<img src="../bank_sql/images/vs_code_photo.png"> 
+<img src="images/vs_code_photo.png"> 
 
 
 
