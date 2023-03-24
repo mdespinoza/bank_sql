@@ -8,7 +8,7 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "bank_db",
+            "name": "db_setup_bank",
             "database": "bank_db",
             "username": "mdespinoza",
             "askForPassword": true
